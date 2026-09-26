@@ -1,18 +1,18 @@
-2D Platformer Game
+**2D Platformer Game**
 
 <img width="1513" height="524" alt="Portada" src="https://github.com/user-attachments/assets/505f53f0-03f5-4a76-b36f-39e3c4055338" />
 
-Overview
+**Overview**
 
 This videogame is a platforming game developed in Unity using C#. The project consists of three levels with different environments and progressively increasing difficulty. The player must navigate each level, interact with its gameplay elements, and reach the objective while managing the available lives.
 
-Gameplay
+**Gameplay**
 
 The player controls a girl character who can move horizontally and jump. The game is based on platforming mechanics, where movement and jumping are used to navigate the level and interact with enemies, collectibles, and environmental hazards.
 
 The game features a life system and level progression across three stages. Each level introduces different combinations of gameplay elements and progressively more challenging layouts.
 
-Enemies
+**Enemies**
 
 Slimes
 
@@ -23,7 +23,7 @@ Slimes are the main enemies encountered throughout the game. Their interaction w
 
 When a slime is eliminated, an explosion animation is triggered as visual feedback.
 
-Obstacles
+**Obstacles**
 
 Fire
 
@@ -33,13 +33,13 @@ Spikes
 
 Spikes are stationary hazards that require the player to carefully time their movement and jumps. Touching a spike causes the current level to restart.
 
-Collectibles
+**Collectibles**
 
 Coins
 
 Coins are distributed throughout the levels and can be collected by the player. Collecting a coin triggers a sparkle particle effect and an audio cue.
 
-GUI
+**GUI**
 
 The game's graphical user interface provides information and controls for the player.
 
@@ -50,7 +50,7 @@ The interface includes:
 
 The GUI uses imported button assets to define the visual appearance of the interface.
 
-Levels
+**Levels**
 
 The game contains three levels, each with its own environment and layout.
 
@@ -68,7 +68,7 @@ The third level provides the most challenging layout, requiring the player to co
 
 Each level uses different combinations of backgrounds, terrain blocks, and platforms to create its environment.
 
-Visual Effects
+**Visual Effects**
 
 The project includes several visual assets and effects used to enhance gameplay interactions.
 
@@ -77,7 +77,7 @@ The project includes several visual assets and effects used to enhance gameplay 
 - Explosion: Used when a slime is eliminated.
 - Sparkles: Used as a particle effect when collecting coins.
 
-Audio
+**Audio**
 
 The game includes background music and sound effects associated with specific gameplay events:
 
@@ -89,7 +89,7 @@ The game includes background music and sound effects associated with specific ga
 - Jump: Plays when the player jumps.
 - Level completion: Plays when the player completes a level.
 
-How to Run
+**How to Run**
 
 Requirements
 
