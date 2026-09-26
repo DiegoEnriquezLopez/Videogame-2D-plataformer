@@ -14,8 +14,6 @@ The game features a life system and level progression across three stages. Each 
 
 **Enemies**
 
-Slimes
-
 Slimes are the main enemies encountered throughout the game. Their interaction with the player depends on the direction of the collision.
 
 - Front or back: The player loses one life.
@@ -25,19 +23,13 @@ When a slime is eliminated, an explosion animation is triggered as visual feedba
 
 **Obstacles**
 
-Fire
+-Fire: An environmental hazard placed throughout the levels. If the player touches the fire, the current level is restarted.
 
-Fire is an environmental hazard placed throughout the levels. If the player touches the fire, the current level is restarted.
-
-Spikes
-
-Spikes are stationary hazards that require the player to carefully time their movement and jumps. Touching a spike causes the current level to restart.
+- Spikes: Stationary hazards that require the player to carefully time their movement and jumps. Touching a spike causes the current level to restart.
 
 **Collectibles**
 
-Coins
-
-Coins are distributed throughout the levels and can be collected by the player. Collecting a coin triggers a sparkle particle effect and an audio cue.
+-Coins: Distributed throughout the levels and can be collected by the player. Collecting a coin triggers a sparkle particle effect and an audio cue.
 
 **GUI**
 
@@ -54,17 +46,9 @@ The GUI uses imported button assets to define the visual appearance of the inter
 
 The game contains three levels, each with its own environment and layout.
 
-Level 1
-
-The first level introduces the basic gameplay and provides an introduction to the game's mechanics and environment.
-
-Level 2
-
-The second level increases the difficulty through a more demanding arrangement of platforms, enemies, and hazards.
-
-Level 3
-
-The third level provides the most challenging layout, requiring the player to combine the movement and interaction mechanics learned throughout the previous levels.
+- Level 1: Introduces the basic gameplay mechanics and the game's environment.
+- Level 2: Increases the difficulty with a more demanding arrangement of platforms, enemies, and hazards.
+- Level 3: Features the most challenging layout, requiring the player to combine the movement and interaction mechanics introduced in the previous levels.
 
 Each level uses different combinations of backgrounds, terrain blocks, and platforms to create its environment.
 
