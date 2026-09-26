@@ -23,7 +23,7 @@ When a slime is eliminated, an explosion animation is triggered as visual feedba
 
 **Obstacles**
 
--Fire: An environmental hazard placed throughout the levels. If the player touches the fire, the current level is restarted.
+- Fire: An environmental hazard placed throughout the levels. If the player touches the fire, the current level is restarted.
 
 - Spikes: Stationary hazards that require the player to carefully time their movement and jumps. Touching a spike causes the current level to restart.
 
