@@ -29,7 +29,7 @@ When a slime is eliminated, an explosion animation is triggered as visual feedba
 
 **Collectibles**
 
--Coins: Distributed throughout the levels and can be collected by the player. Collecting a coin triggers a sparkle particle effect and an audio cue.
+- Coins: Distributed throughout the levels and can be collected by the player. Collecting a coin triggers a sparkle particle effect and an audio cue.
 
 **GUI**
 
